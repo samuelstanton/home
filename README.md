@@ -1,3 +1,6 @@
+# Samuel Stanton
+![portrait](https://github.com/samuelstanton/home/blob/master/Sam%20Grad%20Photos%20-%20Online-9384.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/samuelstanton/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
